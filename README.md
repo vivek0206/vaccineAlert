@@ -19,7 +19,7 @@ Covid vaccine Alert notifier
 
 ## Introduction
 
-Covid Vaccine Alert is an android application which is using Cowin api to fetch data.This app will provide a notification when vaccine is available to pincode entered by user
+Covid Vaccine Alert is an android application, which is using Cowin api to fetch data.This app will provide a notification when vaccine is available at pincode entered by user
 
 ## Features
 
