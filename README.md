@@ -1,5 +1,3 @@
-# vaccineAlert
-Covid vaccine Alert notifier
 
 <h1 align="center"> vaccineAlert App </h1> <br>
 
